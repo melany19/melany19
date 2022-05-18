@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melany19
-- 👀 I’m interested in develop myself as a full stack programmer.
+- 👀 I’m interested in develop myself as a full stack developer.
 - 🌱 I’m currently learning web develop.
 - 💞️ I’m looking to collaborate on companies that provide a good work environment and the opportunity to develop my career as a programmer.
 - 📫 How to reach me ...
